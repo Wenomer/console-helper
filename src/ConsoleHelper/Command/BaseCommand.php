@@ -1,8 +1,8 @@
 <?php
 
-namespace GitHelper\Command;
+namespace ConsoleHelper\Command;
 
-use GitHelper\MonologConsoleOutputHandler;
+use ConsoleHelper\MonologConsoleOutputHandler;
 use GitWrapper\GitWorkingCopy;
 use GitWrapper\GitWrapper;
 use Monolog\Logger;

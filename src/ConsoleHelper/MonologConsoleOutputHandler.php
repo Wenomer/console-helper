@@ -1,6 +1,6 @@
 <?php
 
-namespace GitHelper;
+namespace ConsoleHelper;
 
 use Monolog\Formatter\LineFormatter;
 use Monolog\Handler\AbstractProcessingHandler;

@@ -1,6 +1,6 @@
 <?php
 
-namespace GitHelper\Command;
+namespace ConsoleHelper\Command;
 
 use Symfony\Component\Console\Input\InputArgument;
 

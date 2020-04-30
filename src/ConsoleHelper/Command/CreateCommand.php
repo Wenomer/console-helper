@@ -1,6 +1,6 @@
 <?php
 
-namespace GitHelper\Command;
+namespace ConsoleHelper\Command;
 
 use chobie\Jira\Api;
 use chobie\Jira\Api\Authentication\Basic;
